@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: color-conversions
+Version: 0.1.0
+Summary: Color conversion utilities (NCS, RAL, DB, BS, Granit, Profel) to RGB
+Author-email: Matej Boura <m.boura@toors.cz>
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+
+# Color Conversions
+
+A standalone package for converting various color systems to RGB.
+
+## Supported Systems
+- NCS
+- RAL
+- Profel
+- DB (Deutsche Bahn)
+- BS (British Standard)
+- Granit
+
+## Installation
+```bash
+pip install .
+```
+or with uv:
+```bash
+uv pip install .
+```

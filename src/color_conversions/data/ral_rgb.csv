@@ -1,0 +1,217 @@
+RAL     ; RGB        ; English
+RAL 1000; 204-197-143; Green beige
+RAL 1001; 209-188-138; Beige
+RAL 1002; 210-183-115; Sand yellow
+RAL 1003; 247-186-11 ; Signal yellow
+RAL 1004; 226-176-7  ; Golden yellow
+RAL 1005; 200-159-4  ; Honey yellow
+RAL 1006; 225-161-0  ; Maize yellow
+RAL 1007; 231-156-0  ; Daffodil yellow
+RAL 1011; 175-138-84 ; Brown beige
+RAL 1012; 217-192-34 ; Lemon yellow
+RAL 1013; 233-229-206; Oyster white
+RAL 1014; 223-206-161; Ivory
+RAL 1015; 234-222-189; Light ivory
+RAL 1016; 234-240-68 ; Sulfur yellow
+RAL 1017; 244-183-82 ; Saffron yellow
+RAL 1018; 243-224-59 ; Zinc yellow
+RAL 1019; 164-149-125; Grey beige
+RAL 1020; 154-148-100; Olive yellow
+RAL 1021; 238-201-0  ; Colza yellow
+RAL 1023; 240-202-0  ; Traffic yellow
+RAL 1024; 184-156-80 ; Ochre yellow
+RAL 1026; 245-255-0  ; Luminous yellow
+RAL 1027; 163-140-21 ; Curry
+RAL 1028; 255-171-0  ; Melon yellow
+RAL 1032; 221-178-15 ; Broom yellow
+RAL 1033; 250-171-33 ; Dahlia yellow
+RAL 1034; 237-171-86 ; Pastel yellow
+RAL 1035; 162-153-133; Pearl beige
+RAL 1036; 146-117-73 ; Pearl gold
+RAL 1037; 238-162-5  ; Sun yellow
+RAL 2000; 221-121-7  ; Yellow orange
+RAL 2001; 190-78-32  ; Red orange
+RAL 2002; 198-57-39  ; Vermilion
+RAL 2003; 250-132-43 ; Pastel orange
+RAL 2004; 231-91-18  ; Pure orange
+RAL 2005; 255-35-0   ; Luminous orange
+RAL 2007; 255-164-33 ; Luminous bright orange
+RAL 2008; 243-117-44 ; Bright red orange
+RAL 2009; 225-85-1   ; Traffic orange
+RAL 2010; 212-101-47 ; Signal orange
+RAL 2011; 236-124-37 ; Deep orange
+RAL 2012; 219-106-80 ; Salmon orange
+RAL 2013; 149-69-39  ; Pearl orange
+RAL 2017; 252-85-0   ; RAL orange
+RAL 3000; 171-37-36  ; Flame red
+RAL 3001; 160-33-40  ; Signal red
+RAL 3002; 161-35-43  ; Carmine red
+RAL 3003; 141-29-44  ; Ruby red
+RAL 3004; 112-31-41  ; Purple red
+RAL 3005; 94-32-40   ; Wine red
+RAL 3007; 64-34-37   ; Black red
+RAL 3009; 112-55-49  ; Oxide red
+RAL 3011; 126-41-44  ; Brown red
+RAL 3012; 203-141-115; Beige red
+RAL 3013; 156-50-46  ; Tomato red
+RAL 3014; 212-116-121; Antique pink
+RAL 3015; 225-166-173; Light pink
+RAL 3016; 172-64-52  ; Coral red
+RAL 3017; 211-84-95  ; Rose
+RAL 3018; 209-65-82  ; Strawberry red
+RAL 3020; 193-18-28  ; Traffic red
+RAL 3022; 213-109-86 ; Salmon pink
+RAL 3024; 247-0-0    ; Luminous red
+RAL 3026; 255-0-0    ; Luminous bright red
+RAL 3027; 180-32-65  ; Raspberry red
+RAL 3028; 231-37-18  ; Pure red
+RAL 3031; 172-50-59  ; Orient red
+RAL 3032; 113-21-33  ; Pearl ruby red
+RAL 3033; 178-76-67  ; Pearl pink
+RAL 4001; 138-90-131 ; Red lilac
+RAL 4002; 147-61-80  ; Red violet
+RAL 4003; 209-91-143 ; Heather violet
+RAL 4004; 105-22-57  ; Claret violet
+RAL 4005; 131-99-157 ; Blue lilac
+RAL 4006; 153-37-114 ; Traffic purple
+RAL 4007; 74-32-59   ; Purple violet
+RAL 4008; 144-70-132 ; Signal violet
+RAL 4009; 163-137-149; Pastel violet
+RAL 4010; 198-54-120 ; Telemagenta
+RAL 4011; 135-115-161; Pearl violet
+RAL 4012; 107-104-128; Pearl blackberry
+RAL 5000; 56-76-112  ; Violet blue
+RAL 5001; 31-71-100  ; Green blue
+RAL 5002; 43-44-124  ; Ultramarine blue
+RAL 5003; 42-55-86   ; Sapphire blue
+RAL 5004; 29-31-42   ; Black blue
+RAL 5005; 21-72-137  ; Signal blue
+RAL 5007; 65-103-141 ; Brillant blue
+RAL 5008; 49-60-72   ; Grey blue
+RAL 5009; 46-89-120  ; Azure blue
+RAL 5010; 19-68-124  ; Gentian blue
+RAL 5011; 35-44-63   ; Steel blue
+RAL 5012; 52-129-184 ; Light blue
+RAL 5013; 35-45-83   ; Cobalt blue
+RAL 5014; 108-124-152; Pigeon blue
+RAL 5015; 40-116-178 ; Sky blue
+RAL 5017; 14-81-141  ; Traffic blue
+RAL 5018; 33-136-143 ; Turquoise blue
+RAL 5019; 26-87-132  ; Capri blue
+RAL 5020; 11-65-81   ; Ocean blue
+RAL 5021; 7-115-122  ; Water blue
+RAL 5022; 47-42-90   ; Night blue
+RAL 5023; 77-102-142 ; Distant blue
+RAL 5024; 106-147-176; Pastel blue
+RAL 5025; 41-100-120 ; Pearl gentian blue
+RAL 5026; 16-44-84   ; Pearl night blue
+RAL 6000; 50-118-98  ; Patina green
+RAL 6001; 40-113-62  ; Emerald green
+RAL 6002; 39-98-53   ; Leaf green
+RAL 6003; 75-87-62   ; Olive green
+RAL 6004; 14-66-67   ; Blue green
+RAL 6005; 15-67-54   ; Moss green
+RAL 6006; 64-67-59   ; Grey olive
+RAL 6007; 40-52-36   ; Bottle green
+RAL 6008; 53-56-46   ; Brown green
+RAL 6009; 38-57-47   ; Fir green
+RAL 6010; 62-117-59  ; Grass green
+RAL 6011; 104-130-91 ; Reseda green
+RAL 6012; 49-64-61   ; Black green
+RAL 6013; 121-124-90 ; Reed green
+RAL 6014; 68-67-55   ; Yellow olive
+RAL 6015; 61-64-58   ; Black olive
+RAL 6016; 2-106-82   ; Turquoise green
+RAL 6017; 70-134-65  ; May green
+RAL 6018; 72-164-63  ; Yellow green
+RAL 6019; 183-217-177; Pastel green
+RAL 6020; 53-71-51   ; Chrome green
+RAL 6021; 134-164-124; Pale green
+RAL 6022; 62-60-50   ; Olive drab
+RAL 6024; 0-135-84   ; Traffic green
+RAL 6025; 83-117-60  ; Fern green
+RAL 6026; 0-93-82    ; Opal green
+RAL 6027; 129-192-187; Light green
+RAL 6028; 45-85-70   ; Pine green
+RAL 6029; 0-114-67   ; Mint green
+RAL 6032; 15-133-88  ; Signal green
+RAL 6033; 71-138-132 ; Mint turquoise
+RAL 6034; 127-176-178; Pastel turquoise
+RAL 6035; 27-84-44   ; Pearl green
+RAL 6036; 0-93-76    ; Pearl opal green
+RAL 6037; 37-231-18  ; Pure green
+RAL 6038; 0-247-0    ; Luminous green
+RAL 6039; 179-196-62 ; Fibrous green
+RAL 7000; 126-139-146; Squirrel grey
+RAL 7001; 143-153-159; Silver grey
+RAL 7002; 129-127-104; Olive grey
+RAL 7003; 122-123-109; Moss grey
+RAL 7004; 158-160-161; Signal grey
+RAL 7005; 107-113-111; Mouse grey
+RAL 7006; 117-111-97 ; Beige grey
+RAL 7008; 116-102-67 ; Khaki grey
+RAL 7009; 91-98-89   ; Green grey
+RAL 7010; 87-93-87   ; Tarpaulin grey
+RAL 7011; 85-93-97   ; Iron grey
+RAL 7012; 89-97-99   ; Basalt grey
+RAL 7013; 85-85-72   ; Brown grey
+RAL 7015; 81-86-92   ; Slate grey
+RAL 7016; 55-63-67   ; Anthracite grey
+RAL 7021; 46-50-52   ; Black grey
+RAL 7022; 75-77-70   ; Umbra grey
+RAL 7023; 129-132-121; Concrete grey
+RAL 7024; 71-74-80   ; Graphite grey
+RAL 7026; 55-68-71   ; Granite grey
+RAL 7030; 147-147-136; Stone grey
+RAL 7031; 93-105-112 ; Blue grey
+RAL 7032; 185-185-168; Pebble grey
+RAL 7033; 129-137-121; Cement grey
+RAL 7034; 147-145-118; Yellow grey
+RAL 7035; 203-208-204; Light grey
+RAL 7036; 154-150-151; Platinum grey
+RAL 7037; 124-127-126; Dusty grey
+RAL 7038; 180-184-176; Agate grey
+RAL 7039; 107-105-95 ; Quartz grey
+RAL 7040; 157-163-166; Window grey
+RAL 7042; 143-150-149; Traffic grey A
+RAL 7043; 78-84-81   ; Traffic grey B
+RAL 7044; 189-189-178; Silk grey
+RAL 7045; 145-150-154; Telegrey 1
+RAL 7046; 130-137-142; Telegrey 2
+RAL 7047; 207-208-207; Telegrey 4
+RAL 7048; 136-129-117; Pearl mouse grey
+RAL 8000; 136-113-66 ; Green brown
+RAL 8001; 156-107-48 ; Ochre brown
+RAL 8002; 123-81-65  ; Signal brown
+RAL 8003; 128-84-47  ; Clay brown
+RAL 8004; 143-78-53  ; Copper brown
+RAL 8007; 111-74-47  ; Fawn brown
+RAL 8008; 111-79-40  ; Olive brown
+RAL 8011; 90-58-41   ; Nut brown
+RAL 8012; 103-56-49  ; Red brown
+RAL 8014; 73-57-45   ; Sepia brown
+RAL 8015; 99-58-52   ; Chestnut brown
+RAL 8016; 76-47-38   ; Mahogany brown
+RAL 8017; 68-50-45   ; Chocolate brown
+RAL 8019; 63-58-58   ; Grey brown
+RAL 8022; 33-31-32   ; Black brown
+RAL 8023; 166-94-47  ; Orange brown
+RAL 8024; 121-85-60  ; Beige brown
+RAL 8025; 117-92-73  ; Pale brown
+RAL 8028; 78-59-49   ; Terra brown
+RAL 8029; 118-60-40  ; Pearl copper
+RAL 9001; 253-244-227; Cream
+RAL 9002; 231-235-218; Grey white
+RAL 9003; 244-244-244; Signal white
+RAL 9004; 40-40-40   ; Signal black
+RAL 9005; 10-10-10   ; Jet black
+RAL 9006; 165-165-165; White aluminum
+RAL 9007; 143-143-143; Grey aluminum
+RAL 9010; 255-255-255; Pure white
+RAL 9011; 28-28-28   ; Graphite black
+RAL 9012; 248-242-225; Cleanroom white
+RAL 9016; 246-246-246; Traffic white
+RAL 9017; 30-30-30   ; Traffic black
+RAL 9018; 215-215-215; Papyrus white
+RAL 9022; 156-156-156; Pearl light grey
+RAL 9023; 130-130-130; Pearl dark grey

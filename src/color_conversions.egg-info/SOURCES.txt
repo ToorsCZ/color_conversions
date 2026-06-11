@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/color_conversions/__init__.py
+src/color_conversions/conversions.py
+src/color_conversions.egg-info/PKG-INFO
+src/color_conversions.egg-info/SOURCES.txt
+src/color_conversions.egg-info/dependency_links.txt
+src/color_conversions.egg-info/top_level.txt
+src/color_conversions/data/__init__.py
+src/color_conversions/data/bs_rgb.csv
+src/color_conversions/data/db_rgb.csv
+src/color_conversions/data/granit_rgb.csv
+src/color_conversions/data/profel_rgb.csv
+src/color_conversions/data/ral_rgb.csv
+tests/test_conversions.py

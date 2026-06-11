@@ -1,0 +1,17 @@
+[project]
+name = "color-conversions"
+version = "0.1.0"
+description = "Color conversion utilities (NCS, RAL, DB, BS, Granit, Profel) to RGB"
+authors = [
+    { name = "Matej Boura", email = "m.boura@toors.cz" }
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.package-data]
+"color_conversions.data" = ["*.csv"]
